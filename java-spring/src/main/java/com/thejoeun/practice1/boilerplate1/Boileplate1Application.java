@@ -1,4 +1,4 @@
-package com.thejoeun.practice1.boileplate1;
+package com.thejoeun.practice1.boilerplate1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
